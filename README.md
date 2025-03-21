@@ -31,7 +31,7 @@ A sleek and modern weather application built with React, Material-UI, and TanSta
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/newbieking/weather-app.git
 cd weather-app
 ```
 
